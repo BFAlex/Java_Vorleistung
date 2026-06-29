@@ -1,5 +1,8 @@
 ﻿# ebalJAvRotEtotExam
-
+Especially for my beloved Kolya
+```
+docker build -t java-tasks .
+```
 ```
 docker run --rm -e TASK=task1 java-tasks
 ```
