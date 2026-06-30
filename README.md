@@ -1,4 +1,3 @@
-﻿# ebalJAvRotEtotExam
 ```
 docker build -t java-tasks .
 ```
